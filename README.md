@@ -5,7 +5,7 @@
 
 
 <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/1257/1257504.png?w=740&t=st=1674927866~exp=1674928466~hmac=43f619821ea6c5f559cb7dc389ab3a8d1cf109bb317f2c9d49157f3bb9e626fc" alt="Logo" width="150" height="150">
+    <img src="https://cdn-icons-png.flaticon.com/512/1257/1257504.png?w=740&t=st=1674927866~exp=1674928466~hmac=43f619821ea6c5f559cb7dc389ab3a8d1cf109bb317f2c9d49157f3bb9e626fc" alt="Logo" width="110" height="110">
 
 
   <h3 align="center">OpenGL Games</h3>
